@@ -1,4 +1,3 @@
-alert("Hola bievenido Carlos, espero que te guste!")
 // Le añado una nueva sorpresa mediante un boton
 function anadir(sw){
     var pic;
